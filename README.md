@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on chartex.com, a platform targeted to the music industry.
-- 👨‍💻 Tech stack: React, Next, TanStack, Django, MySQL, JavaScript, Python, Playwright.
+- 👨‍💻 Tech stack: React, Next, MUI, TanStack, Django, MySQL, JavaScript, Python, Playwright.
 - 💬 Ask me about: anything React/Django related. I can also help on issues that involve C++ or C#.
 - 🖼️ Passionate on: hiking, traveling, cooking, photography.
 - 📫 Reach me on:
