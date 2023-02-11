@@ -6,4 +6,4 @@
 - 🖼️ Passionate on: hiking, traveling, cooking, photography.
 - 📫 Reach me on:
   - LinkedIn: https://www.linkedin.com/in/silviuifrim/
-  - Email: dev@isilviu.com
+  - Email: ifrim.silviu2@gmail.com
